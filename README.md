@@ -11,7 +11,7 @@
 - 2023.08.15 깃허브 개설 및 ReadMe 작성
 -
 - - -
-## project Setting
+## Project Setting
 - Project : Gradle
 - Language : Java
 - SpringBoot : 2.5.3
